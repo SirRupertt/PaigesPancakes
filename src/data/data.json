@@ -1,160 +1,160 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Craving some breakfast?",
+    "paragraph": "Paige's Pancakes is the best in Iowa City, back to back best resturant 2025, 2026."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We started as a two person team creating breakfast others love. Generated in our very own kitchens we transfered these homemade recipes to our resturant. We are proud to say we have been voted the best breakfast in Iowa City for the past two years. We are a family owned business and we treat our customers like family. We are open 7 days a week and we are always ready to serve you the best breakfast in town.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Reasonable Pricing",
+      "Quick Service",
+      "Great Atmosphere",
+      "Family Friendly"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Great Food",
+      "Custom Coffee",
+      "Local Ingredients",
+      "Family Owned"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Cappuccino",
+      "largeImage": "img/portfolio/pexels-cappuccino.jpg",
+      "smallImage": "img/portfolio/pexels-cappuccino-sm.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Cooking Pancakes",
+      "largeImage": "img/portfolio/pexels-cooking.jpg",
+      "smallImage": "img/portfolio/pexels-cooking-sm.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Family Decoration",
+      "largeImage": "img/portfolio/pexels-decorating.jpg",
+      "smallImage": "img/portfolio/pexels-decorating-sm.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Mobile Ordering",
+      "largeImage": "img/portfolio/pexels-mobileorder.jpg",
+      "smallImage": "img/portfolio/pexels-mobileorder-sm.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Decor",
+      "largeImage": "img/portfolio/pexels-greentile.jpg",
+      "smallImage": "img/portfolio/pexels-greentile-sm.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Quality Espresso",
+      "largeImage": "img/portfolio/pexels-espresso.jpg",
+      "smallImage": "img/portfolio/pexels-espresso-sm.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Our Pancakes",
+      "largeImage": "img/portfolio/pexels-pancakes1.jpg",
+      "smallImage": "img/portfolio/pexels-pancakes1-sm.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Catering Service",
+      "largeImage": "img/portfolio/pexels-buffet.jpg",
+      "smallImage": "img/portfolio/pexels-buffet-sm.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Family Meals",
+      "largeImage": "img/portfolio/pexels-table.jpg",
+      "smallImage": "img/portfolio/pexels-table-sm.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-eyedropper",
+      "name": "Pancake Decorating Classes:",
+      "text": "Bring the family for a fun and interactive pancake decorating class! Learn basic techniques and then go wild decorating your pancakes with colorful toppings, fruits, and stencils."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Online Ordering & Delivery:",
+      "text": "Start your day off right without leaving your PJs! Order your favorite pancakes and breakfast items for pickup or delivery through our website or app."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-taxi",
+      "name": "Catering:",
+      "text": "Let Paige's Pancakes cater your next event! We offer custom pancake platters, breakfast buffets, and more to fuel your meetings, brunches, or special occasions."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Multi-Language Support:",
+      "text": "We understand the importance of catering to a diverse customer base. That's why we offer multi-language support at Paige's Pancakes. Our website and app are available in multiple languages, making it easier for customers from different backgrounds to navigate and place their orders."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Community Pancake Breakfasts:",
+      "text": "Give back to the community by hosting a pancake breakfast fundraiser! We provide the food and staff, you provide the guests, and we donate a portion of the proceeds to a local charity of your choice."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Pancake Batter Mix & Toppings To-Go:",
+      "text": "Bring the Paige's Pancakes magic home! Purchase our signature pancake batter mix and a selection of popular toppings to recreate your favorites anytime."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Paige's Pancakes is a true Iowa City gem! They've got the best buttermilk pancakes I've ever had, fluffy and delicious. Plus, their coffee is strong and keeps me going all morning. The staff is so friendly and welcoming, it feels like you're eating breakfast at home with family. Can't wait to go back again!\"",
+      "name": "David M."
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"We went to Paige's Pancakes for a Sunday brunch and it was delightful! The atmosphere is warm and inviting, perfect for a relaxed morning meal. My husband got the sausage omelet and said it was packed with flavor. I had the eggs benedict with perfectly poached eggs and hollandaise sauce. The portions are generous and the prices are very reasonable. We will definitely be back!\"",
+      "name": "Brian T."
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Paige's Pancakes is a hidden gem! It's a bit off the beaten path but totally worth the drive. Their coffee cake is legendary - moist, flavorful, and with a delicious streusel topping. We also tried their breakfast burrito and it was huge and filling. The staff is friendly and attentive, and the owner, Paige herself, even came by our table to chat. You can tell they take pride in their food and service.\"",
+      "name": "Michael L."
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"I'm a college student on a tight budget, so Paige's Pancakes is a lifesaver. Their breakfast specials are amazing deals and you get a ton of food for your money. The pancakes are always a win, but I also love their oatmeal with fresh fruit. The staff is super friendly and always remembers my order. It's my go-to spot for a quick and delicious breakfast.\"",
+      "name": "Sarah B."
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Took my kids to Paige's Pancakes for a special treat and they loved it! They have a whole section on their menu just for kids with fun options like smiley face pancakes and chocolate chip waffles. The portions are perfect for little ones and the prices are very reasonable. The staff is patient and kind with kids, which is always a plus. We will definitely be back!\"",
+      "name": "Evan S."
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Paige's Pancakes is my favorite place to go for breakfast meetings. They have a quiet corner table that's perfect for conversation, and the coffee keeps flowing. The breakfast sandwiches are delicious and filling, and they have a variety of healthy options too. The staff is professional and attentive, without being intrusive. I highly recommend Paige's Pancakes for a casual and productive breakfast meeting.\"",
+      "name": "Jessica K."
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Paige Kelly",
+      "job": "Owner"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "name": "Drew Sapato",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Jane Kowalski",
+      "job": "Server"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Karen Smith",
+      "job": "Server"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Iowa City, IA 52245 ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "info@paigespancakes.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Pancake Flights:",
+      "text": "Cater to indecisive customers or those who want to try a variety by offering \"Pancake Flights.\" These would be miniature portions of 2-3 different pancake flavors on a plate, allowing customers to sample unique options like blueberry ricotta, lemon poppyseed, or chocolate chip pecan."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "DIY Pancake Bar:",
+      "text": "Create a fun and interactive experience with a DIY Pancake Bar. This could be a weekend brunch option where customers pay a set price and get access to a selection of pancake batters, toppings, fruits, syrups, and whipped cream. They can then customize their own perfect pancake creations."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Weekend Brunch Mimosa Bar:",
+      "text": "Elevate the weekend brunch experience with a Mimosa Bar.  Offer a selection of sparkling wines and fresh juices that customers can combine to create their own mimosas. This can be a fun and social activity for groups of friends or families."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Secret Menu:",
+      "text": "Intrigue adventurous customers with a \"Secret Menu Challenge.\" Offer a few off-menu pancake or breakfast item specials that aren't listed but can be accessed by asking a specific question to the wait staff.  This creates a sense of discovery and exclusivity for those who are \"in the know.\""
     }
   ]
 }
